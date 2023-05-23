@@ -20,7 +20,8 @@ def plot_learning_curve(est, X, y):
     plt.ylim(0, 1.1)
 
 
-# def plot_ridge_n_samples():
+def plot_ridge_n_samples():
+    pass
 #     X, y = load_extended_boston()
 
 #     plot_learning_curve(Ridge(alpha=1), X, y)
